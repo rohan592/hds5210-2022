@@ -10,9 +10,7 @@ Overall, nicely done.
 
 You didn't include any docstrings or tests as required. I've only deducted 9 points from the _Docs / Testing_ score, though, because I found your variable names made the code very easy to read on Step 1.
 
-However, it looks like you didn't see a way to approach the rest of assignment. The 
-
-
+However, it looks like you didn't see a way to approach the rest of assignment.
 
 
 ## Step 1
